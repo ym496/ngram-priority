@@ -1,7 +1,7 @@
 # Ngram-Priority
 ## Overview
 
-The is a Python script that utilizes the [Google Books Ngram Viewer](https://books.google.com/ngrams/info) to analyze the relative popularity of words based on their occurrence in a large corpus of books over time. I wrote this to determine the priority of learning new words from my extensive list of new vocabulary. 
+The is a Python script that utilizes the [Google Books Ngram Viewer](https://books.google.com/ngrams/info) to rank words by their relative popularity based on their occurrence in a large corpus of books over time. I wrote this to determine the priority of learning new words from my extensive list of new vocabulary. 
 
 ## Usage
 
